@@ -49,7 +49,7 @@ mvn spring-boot:run
 
 
 3. Open in browser:
-Swagger UI: http://localhost:8080/swagger-ui/index.html
+Swagger UI: http://localhost:8081/swagger-ui/index.html
 
 
 
